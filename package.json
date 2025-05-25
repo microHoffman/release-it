@@ -1,6 +1,6 @@
 {
-  "name": "release-it",
-  "version": "19.0.2",
+  "name": "@microhoffman/release-it",
+  "version": "19.1.0",
   "description": "Generic CLI tool to automate versioning and package publishing-related tasks.",
   "keywords": [
     "build",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/release-it/release-it.git"
+    "url": "https://github.com/microHoffman/release-it.git"
   },
   "homepage": "https://github.com/release-it/release-it#readme",
   "bugs": "https://github.com/release-it/release-it/issues",
@@ -73,8 +73,7 @@
     "release": "./bin/release-it.js"
   },
   "author": {
-    "email": "lars@webpro.nl",
-    "name": "Lars Kappert"
+    "name": "microHoffman"
   },
   "license": "MIT",
   "dependencies": {
